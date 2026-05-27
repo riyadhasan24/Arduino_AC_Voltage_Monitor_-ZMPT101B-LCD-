@@ -23,5 +23,5 @@ Press the button when AC input is exactly **220V**. The system will auto-adjust 
 
 For help, suggestions, or collaboration, feel free to reach out:
 
-- **📧 Email: riyadhasan24a@gmail.com  
+- **📧 Email: rh30288553@gmail.com 
 - **📱 WhatsApp:** +88 01730 288553
